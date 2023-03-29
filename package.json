@@ -1,0 +1,22 @@
+{
+  "name": "frangmovies",
+  "version": "1.0.0",
+  "description": "Watch whathever u want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francogomez23800/FranGmovies.git"
+  },
+  "keywords": [
+    "FranG"
+  ],
+  "author": "FranG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francogomez23800/FranGmovies/issues"
+  },
+  "homepage": "https://github.com/Francogomez23800/FranGmovies#readme"
+}
